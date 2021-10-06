@@ -7,6 +7,9 @@
 
 import SwiftUI
 
+
+// CODE IS FROM SWIFTFUL THINKING ON YOUTUBE
+
 /*
  MVVM Architecture
  
